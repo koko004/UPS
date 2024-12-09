@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "Example dashboard for HON95's Prometheus NUT Exporter.",
+  "description": "Dashboard for NUT",
   "editable": false,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
@@ -1122,6 +1122,6 @@
   "timezone": "Europe/Madrid",
   "title": "NUT UPS Scope",
   "uid": "80-PUnWMK",
-  "version": 2,
+  "version": 3,
   "weekStart": "monday"
 }
